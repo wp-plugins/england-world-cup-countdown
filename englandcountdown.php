@@ -3,7 +3,7 @@
  * Plugin Name: England World Cup Countdown
  * Plugin URI: http://shop.englandstuff.com/widgets/england-countdown.php
  * Description: This widget shows a countdown to the next England World Cup game. It automatically switches to the next game after the previous game has started. Show your support for the England team with this widget!
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: Mike Robinson
  * Author URI: http://shop.englandstuff.com
  *
