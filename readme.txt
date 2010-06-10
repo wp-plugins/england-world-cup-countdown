@@ -4,7 +4,7 @@ Donate link: http://shop.englandstuff.com
 Tags: football,worldcup, world cup,soccer,south africa, england
 Requires at least: 2.8
 Tested up to: 2.9.2
-Stable tag: 0.1
+Stable tag: 0.1.2
 
 Show your support for the England World Cup team with this countdown to each of their games.
 
